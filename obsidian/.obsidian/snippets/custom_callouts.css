@@ -1,0 +1,83 @@
+/* LITERATURE NOTES */
+
+/*
+Sixteen-A Color Palette
+https://www.color-hex.com/color-palette/1027990
+*/
+
+.callout[data-callout="methodology"] {
+    --callout-color: 17,102,170;
+    --callout-icon: lucide-brain-cog;
+}
+
+.callout[data-callout="findings"] {
+    --callout-color: 102,170,17;
+    --callout-icon: lucide-bar-chart-3;
+}
+
+.callout[data-callout="limitations"] {
+    --callout-color: 170,102,17;
+    --callout-icon: lucide-alert-triangle;
+}
+
+.callout[data-callout="implications"] {
+    --callout-color: 170,17,102;
+    --callout-icon: lucide-door-open;
+}
+
+.callout[data-callout="personal"] {
+    --callout-color: 102,17,170;
+    --callout-icon: lucide-lightbulb;
+}
+
+/* PERMANENT NOTES */
+
+/*
+Old:
+Instagram gradient Color Palette
+https://www.color-hex.com/color-palette/44340
+
+Current:
+8 Color Palette
+https://colorswall.com/palette/171299
+*/
+
+.callout[data-callout="snapshot"] {
+    --callout-color: 199, 88, 232;
+    --callout-icon: lucide-camera;
+}
+
+.callout[data-callout="visual"] {
+    --callout-color: 157, 108, 255;
+    --callout-icon: lucide-brush;
+}
+
+.callout[data-callout="deep"] {
+    --callout-color: 89, 133, 246;
+    --callout-icon: lucide-zoom-in;
+}
+
+.callout[data-callout="examples"] {
+    --callout-color: 8, 162, 209;
+    --callout-icon: lucide-grab;
+}
+
+.callout[data-callout="references"] {
+    --callout-color: 66, 174, 164;
+    --callout-icon: lucide-library;
+}
+
+.callout[data-callout="related"] {
+    --callout-color: 248, 203, 141;
+    --callout-icon: lucide-network;
+}
+
+.callout[data-callout="tba1"] {
+    --callout-color: 255, 140, 128;
+    --callout-icon: lucide-info;
+}
+
+.callout[data-callout="tba2"] {
+    --callout-color: 255, 65, 97;
+    --callout-icon: lucide-info;
+}

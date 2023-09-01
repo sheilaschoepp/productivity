@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "custom_callouts"
+  ],
+  "baseFontSize": 14
+}
