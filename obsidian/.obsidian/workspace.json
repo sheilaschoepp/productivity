@@ -83,9 +83,11 @@
             "id": "377e479c763842c4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "__Media/Covariate Shift.png"
+                "file": "PermNotes/EXAMPLE PERMANENT NOTE - Covariate Shift.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -156,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Media/Covariate Shift.png",
+                "file": "PermNotes/EXAMPLE PERMANENT NOTE - Covariate Shift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__Media/Covariate Shift.png",
+                "file": "PermNotes/EXAMPLE PERMANENT NOTE - Covariate Shift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Media/Covariate Shift.png"
+                "file": "PermNotes/EXAMPLE PERMANENT NOTE - Covariate Shift.md"
               }
             }
           }
@@ -220,9 +222,9 @@
   },
   "active": "0f7ea07174920af7",
   "lastOpenFiles": [
-    "__Archive/Obsidian.md",
-    "PermNotes/EXAMPLE NOTE - Covariate Shift.md",
     "__Media/Covariate Shift.png",
+    "__Archive/Obsidian.md",
+    "PermNotes/EXAMPLE PERMANENT NOTE - Covariate Shift.md",
     "PermNotes/Validation Tasks.md",
     "PermNotes/Time Series Data.md",
     "__Templates/__Template Descriptions/__Properties/Title.md",
@@ -246,7 +248,6 @@
     "__Templates/__Template Descriptions/__Literature Note Template/Personal Takeaway.md",
     "__Templates/__Template Descriptions/__Literature Note Template/Methodology.md",
     "__Templates/__Template Descriptions/__Literature Note Template/Limitations.md",
-    "__Templates/__Template Descriptions/__Literature Note Template/Implications and Future Work.md",
     "__Textbooks/Goodfellow 2016.pdf",
     "__Templates/__Template Descriptions/__Permanent Note Template",
     "__Templates/__Template Descriptions/__Literature Note Template",
