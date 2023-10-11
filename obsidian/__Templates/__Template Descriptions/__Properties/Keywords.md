@@ -6,7 +6,7 @@ tags:
   - Templates
   - Properties
 related:
-  - "[[Literature Note Template]]"
+  - "[[__Templates/__Old/Literature Note Template]]"
 ---
 >[!info]
 >A list of keywords for the publication described in the note.

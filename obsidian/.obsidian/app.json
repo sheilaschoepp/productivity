@@ -1,14 +1,7 @@
 {
-  "showLineNumber": false,
-  "autoPairMarkdown": false,
-  "spellcheck": true,
-  "spellcheckLanguages": null,
-  "readableLineLength": true,
-  "trashOption": "local",
+  "showInlineTitle": false,
   "attachmentFolderPath": "__Media",
-  "newFileLocation": "folder",
   "alwaysUpdateLinks": true,
-  "promptDelete": false,
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "Letter",
@@ -16,6 +9,8 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "newFileFolderPath": "__TODO",
-  "showInlineTitle": false
+  "newFileLocation": "folder",
+  "newFileFolderPath": "TODO",
+  "autoPairMarkdown": false,
+  "autoPairBrackets": true
 }

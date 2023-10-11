@@ -1,30 +1,34 @@
 ---
-title: ""
+title: 
 author(s): []
 year: 
 doi: 
 summary: ""
 keyword(s): []
-rating: -/10
+quality rating: -/5
+relevance rating: -/5
 created: "{{date}}"
 accessed: "{{date}}"
-tags: []
+tags: 
 related: []
 ---
-## [{{title}}.pdf|title]
+## [[{{title}}.pdf|title]]
 
->[!methodology]
+>[!summary]
 >
 
->[!findings]
+>[!central-problem] Central Problem
 >
 
->[!limitations]
+>[!proposed-solution] Proposed Solution
 >
 
->[!implications] Implications and Future Work
+>[!methodology] Methodology
 >
 
->[!personal] Personal Takeway
+>[!results] Results
 >
+
+>[!implications-and-future-work] Implications and Future Work
+
 

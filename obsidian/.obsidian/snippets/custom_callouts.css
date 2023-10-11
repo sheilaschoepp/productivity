@@ -1,45 +1,51 @@
-/* LITERATURE NOTES */
-
 /*
+
+LITERATURE NOTES
+
 Sixteen-A Color Palette
 https://www.color-hex.com/color-palette/1027990
+https://coolors.co/visualizer/1166aa-66aa11-aa6611-aa1166-6611aa-11aa66
+
 */
 
-.callout[data-callout="methodology"] {
+.callout[data-callout="summary"] {
     --callout-color: 17,102,170;
-    --callout-icon: lucide-brain-cog;
+    --callout-icon: lucide-list;
 }
 
-.callout[data-callout="findings"] {
+.callout[data-callout="central-problem"] {
     --callout-color: 102,170,17;
-    --callout-icon: lucide-bar-chart-3;
+    --callout-icon: lucide-unlink;
 }
 
-.callout[data-callout="limitations"] {
+.callout[data-callout="proposed-solution"] {
     --callout-color: 170,102,17;
-    --callout-icon: lucide-alert-triangle;
-}
-
-.callout[data-callout="implications"] {
-    --callout-color: 170,17,102;
-    --callout-icon: lucide-door-open;
-}
-
-.callout[data-callout="personal"] {
-    --callout-color: 102,17,170;
     --callout-icon: lucide-lightbulb;
 }
 
-/* PERMANENT NOTES */
+.callout[data-callout="methodology"] {
+    --callout-color: 170,17,102;
+    --callout-icon: lucide-brain-cog;
+}
+
+.callout[data-callout="results"] {
+    --callout-color: 102,17,170;
+    --callout-icon: lucide-bar-chart-3;
+}
+
+.callout[data-callout="implications-and-future-work"] {
+    --callout-color: 17,170,102;
+    --callout-icon: lucide-door-open;
+}
+
 
 /*
-Old:
-Instagram gradient Color Palette
-https://www.color-hex.com/color-palette/44340
 
-Current:
+PERMANENT NOTES
+
 8 Color Palette
 https://colorswall.com/palette/171299
+
 */
 
 .callout[data-callout="snapshot"] {
@@ -72,12 +78,12 @@ https://colorswall.com/palette/171299
     --callout-icon: lucide-network;
 }
 
-.callout[data-callout="tba1"] {
+.callout[data-callout="tba2"] {
     --callout-color: 255, 140, 128;
     --callout-icon: lucide-info;
 }
 
-.callout[data-callout="tba2"] {
+.callout[data-callout="tba3"] {
     --callout-color: 255, 65, 97;
     --callout-icon: lucide-info;
 }

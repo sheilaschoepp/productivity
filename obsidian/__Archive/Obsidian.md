@@ -2,7 +2,13 @@
 
 ## Bookmark Page of PDF
 
-To bookmark the page of a PDF file, use [[Goodfellow 2016.pdf#page=1]].
+To bookmark the page of a PDF file, use [[Sutton 2018.pdf#page=7]].
+
+## Set Size of Image
+
+To change the size of an image, use:
+
+![[Screenshot 2023-09-24 at 2.11.13 PM.png|200]].
 
 # Plugins
 
@@ -23,6 +29,18 @@ To bookmark the page of a PDF file, use [[Goodfellow 2016.pdf#page=1]].
 ![[Screenshot 2023-08-08 at 4.58.59 PM.png]]
 
 # Settings
+
+## Auto Pair Markdown Syntax for Bold and Italics
+
+`Editor` -> `Auto pair Markdown syntax` (turn off)
+
+## Auto-Update Internal Links When Renaming/Moving Files
+
+`Files & Links` -> `Automatically update internal links` (turn on)
+
+## Default Location of New Notes
+
+`Files & Links` -> `Default location for new notes` -> `In the folder specified below` -> set to `TODO` folder
 
 ## Inline Titles
 

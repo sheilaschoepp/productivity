@@ -8,7 +8,6 @@
     "related": "multitext",
     "year": "text",
     "doi": "text",
-    "rating": "text",
-    "accessed": "date"
+    "rating": "text"
   }
 }

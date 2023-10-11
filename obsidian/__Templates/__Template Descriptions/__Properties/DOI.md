@@ -6,7 +6,7 @@ tags:
   - Templates
   - Properties
 related:
-  - "[[Literature Note Template]]"
+  - "[[__Templates/__Old/Literature Note Template]]"
 ---
 >[!info]
 >The DOI for the publication described in the note.

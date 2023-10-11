@@ -5,7 +5,7 @@ accessed: 2023-09-01
 tags:
   - Templates
 related:
-  - "[[Literature Note Template]]"
+  - "[[__Templates/__Old/Literature Note Template]]"
 ---
 >[!info]
 >The rating for the publication described in the note.
