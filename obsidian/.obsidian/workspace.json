@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c3cce1d77b66873",
+            "id": "a6b1af2e410234d8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "__Templates/Reading List Template.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "__Templates/Reading List Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "__Templates/Reading List Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "__Templates/Reading List Template.md"
+              }
             }
           }
         ],
@@ -141,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "__Templates/Reading List Template.md"
+              }
             }
           },
           {
@@ -172,8 +182,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2c3cce1d77b66873",
+  "active": "a6b1af2e410234d8",
   "lastOpenFiles": [
+    "__Templates/Permanent Note Template.md",
+    "__Templates/Literature Note Template.md",
+    "__Templates/Index Template.md",
+    "__Templates/Reading List Template.md",
+    "__Templates/__Template Descriptions/__Properties/Summary.md",
+    "Indexes/Human-In-The-Loop Learning Index.md",
+    "Indexes/_Indexes List.md",
     "TODO/Curriculum Learning.md",
     "Textbooks/Sutton 2018.pdf",
     "PermNotes/Learning from Reinforcement (Shaping).md",
@@ -186,15 +203,9 @@
     "LitNotes/Knox 2009.md",
     "LitNotes/Booth 2023.md",
     "Indexes/Human-In-The-Loop Papers Index.md",
-    "Indexes/Human-In-The-Loop Learning Index.md",
-    "Indexes/_Indexes List.md",
-    "__Templates/Reading List Template.md",
-    "__Templates/Permanent Note Template.md",
-    "__Templates/Literature Note Template.md",
     "__Templates/__Template Descriptions/__Properties/Title.md",
     "__Templates/__Template Descriptions/__Properties/Year.md",
     "__Templates/__Template Descriptions/__Properties/Tags.md",
-    "__Templates/__Template Descriptions/__Properties/Summary.md",
     "__Templates/__Template Descriptions/__Properties/Related.md",
     "__Templates/__Template Descriptions/__Properties/Rating.md",
     "__Templates/__Template Descriptions/__Properties/Keywords.md",
@@ -202,7 +213,6 @@
     "__Templates/__Template Descriptions/__Properties/Created.md",
     "__Templates/__Template Descriptions/__Properties/Authors.md",
     "__Templates/__Template Descriptions/__Properties/Accessed.md",
-    "__Templates/__Template Descriptions/__Permanent Note Template/5 References.md",
     "__Media/Curriculum Learning.png",
     "__Media/Screenshot 2023-08-08 at 4.58.59 PM.png",
     "__Media/Screenshot 2023-08-08 at 4.59.28 PM.png",
