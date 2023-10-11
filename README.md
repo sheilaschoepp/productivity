@@ -2,11 +2,13 @@
 
 This repository contains Excel spreadsheet templates for monitoring PhD productivity, including annual PhD goals and weekly PhD tasks.
 
-## Annual PhD Goals Template
+## PhD Progress Excel Sheet
 
-![Annual PhD Goals Template](https://github.com/sheilaschoepp/productivity/blob/main/.images/Annual%20PhD%20Goals.png?raw=true)
+### Annual PhD Goals Template
 
-### Instructions
+![Annual PhD Goals Template](https://github.com/sheilaschoepp/productivity/blob/main/images/Annual%20PhD%20Goals.png?raw=true)
+
+#### Instructions
 1. Goal: Clearly describe each goal so you know exactly what you're aiming for.
 2. Priority: Assign a priority level to each goal (e.g., high, medium, low) to help you focus on what's most important.
 3. Start: The date you plan to start working on the goal.
@@ -20,17 +22,17 @@ This repository contains Excel spreadsheet templates for monitoring PhD producti
 11. Custom: You may wish to include a custom column.
 12. Custom: You may wish to include a custom column.
 
-### Special Features
+#### Special Features
 
 1. If a goal start date has passed, but the project status is blank or is "Not Started", the cell will be highlighted in red to indicate an important date has passed.  Change the start date or the project status to "In Progress" to remove the highlighting.
 2. If a goal end date has passed, but the project status is not "Completed", the cell will be highlighted in red to indicate an important date has passed.  Change the end date or the project status to "Completed" to remove the highlighting.
 3. If a goal review date has passed and the review is not marked as done (i.e., with a "Y"), the cell will be highlighted in red to indicate that the review date has passed.  Change the review date or mark the review as done to remove the highlighting.
 
-## Weekly PhD Tasks Template
+### Weekly PhD Tasks Template
 
 ![Weekly PhD Tasks Template](https://github.com/sheilaschoepp/productivity/blob/main/.images/Weekly%20PhD%20Tasks.png?raw=true)
 
-### Instructions
+#### Instructions
 
 1. Task: Clearly describe each task you need to complete.
 2. Priority: Assign a priority level to each task (e.g., high, medium, low) to help you focus on what's most important.
@@ -44,7 +46,7 @@ This repository contains Excel spreadsheet templates for monitoring PhD producti
 10. Custom: You may wish to include a custom column.
 11. Custom: You may wish to include a custom column.
 
-### Special Features
+#### Special Features
 
 1. When you enter an estimated time for a task, a data bar will appear.  This data bar indicates the portion of the week's total estimated time that you will need to dedicate to the task.
 2. When you enter an actual time, a data bar will appear.  This data bar indicates the portion of the week's total actual time that you dedicated to the task.
