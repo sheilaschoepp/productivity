@@ -1,6 +1,9 @@
 # productivity
 
-This repository contains Excel spreadsheet templates for monitoring PhD productivity, including annual PhD goals and weekly PhD tasks.
+This repository contains:
+1. An [Obsidian](https://obsidian.md/) vault that includes sample literature notes and sample permanent notes, as well as templates for these note types. You can find descriptions of each element of the templates within the `__Templates/__Template Descriptions` folder. You can change the color of the callout boxes using Obisidan's instructions to [customize callouts](https://help.obsidian.md/Editing+and+formatting/Callouts#Customize+callouts).
+2. Excel spreadsheet templates for monitoring PhD productivity, including annual PhD goals and weekly PhD tasks.
+
 
 ## PhD Progress Excel Sheet
 
