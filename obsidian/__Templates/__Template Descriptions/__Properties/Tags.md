@@ -6,8 +6,8 @@ tags:
   - Templates
   - Properties
 related:
-  - "[[__Templates/__Old/Literature Note Template]]"
   - "[[Permanent Note Template]]"
+  - "[[Literature Note Template]]"
 ---
 >[!info]
 >The topic(s) or subject(s) of the note.

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "54f6320814a6b03d",
+        "id": "ca2f626dc33fa6d0",
         "type": "tabs",
         "children": [
           {
-            "id": "d6fab384df536627",
+            "id": "2c3cce1d77b66873",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Indexes/Human-In-The-Loop Learning Index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indexes/Human-In-The-Loop Learning Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indexes/Human-In-The-Loop Learning Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Indexes/Human-In-The-Loop Learning Index.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -149,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Indexes/Human-In-The-Loop Learning Index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,49 +172,50 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d6fab384df536627",
+  "active": "2c3cce1d77b66873",
   "lastOpenFiles": [
-    "Indexes/Human-In-The-Loop Papers Index.md",
-    "Indexes/Human-In-The-Loop Learning Index.md",
     "TODO/Curriculum Learning.md",
     "Textbooks/Sutton 2018.pdf",
     "PermNotes/Learning from Reinforcement (Shaping).md",
     "PermNotes/Learning from Demonstration.md",
     "PermNotes/Learning from Advice.md",
     "PermNotes/Hungry Thirsty Environment.md",
-    "Papers/_Reading List.md",
     "Papers/Knox 2009.pdf",
     "Papers/Booth 2023.pdf",
-    "LitNotes/Booth 2023.md",
+    "Papers/_Reading List.md",
     "LitNotes/Knox 2009.md",
+    "LitNotes/Booth 2023.md",
+    "Indexes/Human-In-The-Loop Papers Index.md",
+    "Indexes/Human-In-The-Loop Learning Index.md",
     "Indexes/_Indexes List.md",
-    "__Archive/Obsidian.md",
+    "__Templates/Reading List Template.md",
+    "__Templates/Permanent Note Template.md",
+    "__Templates/Literature Note Template.md",
+    "__Templates/__Template Descriptions/__Properties/Title.md",
+    "__Templates/__Template Descriptions/__Properties/Year.md",
+    "__Templates/__Template Descriptions/__Properties/Tags.md",
+    "__Templates/__Template Descriptions/__Properties/Summary.md",
+    "__Templates/__Template Descriptions/__Properties/Related.md",
+    "__Templates/__Template Descriptions/__Properties/Rating.md",
+    "__Templates/__Template Descriptions/__Properties/Keywords.md",
+    "__Templates/__Template Descriptions/__Properties/DOI.md",
+    "__Templates/__Template Descriptions/__Properties/Created.md",
+    "__Templates/__Template Descriptions/__Properties/Authors.md",
+    "__Templates/__Template Descriptions/__Properties/Accessed.md",
+    "__Templates/__Template Descriptions/__Permanent Note Template/5 References.md",
+    "__Media/Curriculum Learning.png",
     "__Media/Screenshot 2023-08-08 at 4.58.59 PM.png",
-    "TODO/Goodfellow 2016.pdf.md",
     "__Media/Screenshot 2023-08-08 at 4.59.28 PM.png",
     "__Media/Screenshot 2023-08-08 at 4.58.42 PM.png",
-    "__Archive/How to Read Academic Papers.md",
     "__Media/Screenshot 2023-08-11 at 3.35.31 PM.png",
     "__Media/Screenshot 2023-09-24 at 2.11.13 PM.png",
-    "__Archive/How to Read a Journal Article in 10 Minutes or Less.md",
     "__Media/Screenshot 2023-09-12 at 4.36.57 PM.png",
     "__Media/Screenshot 2023-09-12 at 4.32.45 PM.png",
     "__Media/Screenshot 2023-09-12 at 4.28.30 PM.png",
     "__Media/Screenshot 2023-09-11 at 5.13.31 PM.png",
-    "__Templates/__Template Descriptions/__Literature Note Template/3 Proposed Solution.md",
-    "__Media/LitNotes_palette.png",
-    "__Templates/__Template Descriptions/__Literature Note Template/2 Central Problem.md",
-    "__Templates/__Template Descriptions/__Literature Note Template/1 Summary.md",
-    "__Templates/Permanent Note Template.md",
-    "__Templates/Literature Note Template.md",
     "Textbooks/Goodfellow 2016.pdf",
     "Textbooks/Ravichandiran 2018.pdf",
     "Textbooks/Zou 2023.pdf",
-    "TODO/Screenshot 2023-10-02 at 1.56.57 PM.png.md",
-    "TODO/Screenshot 2023-10-02 at 2.33.48 PM.png.md",
-    "Indexes/Machine Learning Index.md",
-    "Indexes/Curriculum Learning Papers Index.md",
-    "__Templates/Reading List Template.md",
     "Papers/Mathewson 2019.pdf",
     "Papers/Weld 2019.pdf",
     "Papers/Finn 2017.pdf",
