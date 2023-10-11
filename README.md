@@ -1,18 +1,26 @@
 # productivity
 
 This repository contains:
-1. An [Obsidian](https://obsidian.md/) vault for recording research notes.
+1. An [Obsidian](https://obsidian.md/) vault for recording research notes using [Zettelkasten note-taking method](https://www.youtube.com/watch?v=rOSZOCoqOo8&ab_channel=ShuOmi).
 2. Excel spreadsheet templates for monitoring PhD productivity, including annual PhD goals and weekly PhD tasks.
 
 ## Obsidian Valut
 
 The Obsidian valut includes sample literature notes and sample permanent notes, as well as templates for these note types. You can find descriptions of each element of the templates within the `__Templates/__Template Descriptions` folder. You can change the color of the callout boxes using Obisidan's instructions to [customize callouts](https://help.obsidian.md/Editing+and+formatting/Callouts#Customize+callouts).
 
+### Literature Note Template
+
 ![Literature Note Template](https://github.com/sheilaschoepp/productivity/blob/main/images/Literature%20Note%20Template.png?raw=true)
+
+### Permanent Note Template
 
 ![Permanent Note Template](https://github.com/sheilaschoepp/productivity/blob/main/images/Permanent%20Note%20Template.png?raw=true)
 
+### Index Template
+
 ![Index Template](https://github.com/sheilaschoepp/productivity/blob/main/images/Index%20Template.png?raw=true)
+
+### Reading List Template
 
 ![Reading List Template](https://github.com/sheilaschoepp/productivity/blob/main/images/Reading%20List%20Template.png?raw=true)
 
