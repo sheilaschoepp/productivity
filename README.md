@@ -1,7 +1,7 @@
 # productivity
 
 This repository contains:
-1. An [Obsidian](https://obsidian.md/) vault for recording research notes using [Zettelkasten note-taking method](https://www.youtube.com/watch?v=rOSZOCoqOo8&ab_channel=ShuOmi).
+1. An [Obsidian](https://obsidian.md/) vault for recording research notes using the [Zettelkasten note-taking method](https://www.youtube.com/watch?v=rOSZOCoqOo8&ab_channel=ShuOmi).
 2. Excel spreadsheet templates for monitoring PhD productivity, including annual PhD goals and weekly PhD tasks.
 
 ## Obsidian Valut
