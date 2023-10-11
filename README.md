@@ -30,7 +30,7 @@ This repository contains Excel spreadsheet templates for monitoring PhD producti
 
 ### Weekly PhD Tasks Template
 
-![Weekly PhD Tasks Template](https://github.com/sheilaschoepp/productivity/blob/main/.images/Weekly%20PhD%20Tasks.png?raw=true)
+![Weekly PhD Tasks Template](https://github.com/sheilaschoepp/productivity/blob/main/images/Weekly%20PhD%20Tasks.png?raw=true)
 
 #### Instructions
 
