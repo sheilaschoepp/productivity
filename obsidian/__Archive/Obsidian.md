@@ -2,31 +2,31 @@
 
 ## Bookmark Page of PDF
 
-To bookmark the page of a PDF file, use [[Sutton 2018.pdf#page=7]].
+To bookmark the page of a PDF file, use [[Goodfellow 2016.pdf#page=1]].
 
 ## Set Size of Image
 
 To change the size of an image, use:
 
-![[Screenshot 2023-09-24 at 2.11.13 PM.png|200]].
+![[default_image.png|200]]
 
 # Plugins
 
 ## Editor Syntax Highlight
 
-![[Screenshot 2023-08-08 at 4.58.42 PM.png]]
-
-## Obsidian Git
-
-![[Screenshot 2023-08-11 at 3.35.31 PM.png]]
+![[editor_synatax_highlight_plugin.png]]
 
 ## Paste URL into Selection
 
-![[Screenshot 2023-08-08 at 4.59.28 PM.png]]
+![[paste_url_into_selection_plugin.png]]
 
 ## Tag Wrangler
 
-![[Screenshot 2023-08-08 at 4.58.59 PM.png]]
+![[tag_wranger_plugin.png]]
+
+## Settings Search
+
+This plugin allows you to globally search settings in Obsidian.
 
 # Settings
 
@@ -40,7 +40,7 @@ To change the size of an image, use:
 
 ## Default Location of New Notes
 
-`Files & Links` -> `Default location for new notes` -> `In the folder specified below` -> set to `TODO` folder
+`Files & Links` -> `Default location for new notes` -> `In the folder specified below` -> set to `Vault folder`
 
 ## Inline Titles
 

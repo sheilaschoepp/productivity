@@ -9,6 +9,7 @@ related:
   - "[[Learning from Advice]]"
   - "[[Apprenticeship Learning]]"
   - "[[Learning from Reinforcement (Shaping)]]"
+index:
 ---
 >[!snapshot]
 >An agent learns a task by recording the state-action pairs visited by a human performing the task.

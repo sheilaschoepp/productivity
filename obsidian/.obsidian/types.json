@@ -8,6 +8,10 @@
     "related": "multitext",
     "year": "text",
     "doi": "text",
-    "rating": "text"
+    "rating": "text",
+    "% read": "number",
+    "quality rating": "number",
+    "relevance rating": "number",
+    "index": "multitext"
   }
 }

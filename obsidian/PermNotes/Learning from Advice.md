@@ -8,6 +8,7 @@ tags:
 related:
   - "[[Learning from Demonstration]]"
   - "[[Learning from Reinforcement (Shaping)]]"
+index:
 ---
 >[!snapshot]
 >A human instructs a learning agent on which action to take under certain conditions.

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ca2f626dc33fa6d0",
+        "id": "1d1a2c0e6ee2eb30",
         "type": "tabs",
         "children": [
           {
-            "id": "a6b1af2e410234d8",
+            "id": "aa95eb3ad0889eed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Templates/Reading List Template.md",
-                "mode": "preview",
+                "file": "__Templates/Literature Note Template.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Templates/Reading List Template.md",
+                "file": "__Templates/Literature Note Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__Templates/Reading List Template.md",
+                "file": "__Templates/Literature Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__Templates/Reading List Template.md"
+                "file": "__Templates/Literature Note Template.md"
               }
             }
           }
@@ -150,7 +150,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "__Templates/Reading List Template.md"
+                "file": "__Templates/Literature Note Template.md"
               }
             }
           },
@@ -182,53 +182,52 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a6b1af2e410234d8",
+  "active": "aa95eb3ad0889eed",
   "lastOpenFiles": [
-    "__Templates/Permanent Note Template.md",
+    "2023-09-16.md",
     "__Templates/Literature Note Template.md",
-    "__Templates/Index Template.md",
+    "__Templates/Permanent Note Template.md",
     "__Templates/Reading List Template.md",
-    "__Templates/__Template Descriptions/__Properties/Summary.md",
+    "__Templates/Index Template.md",
     "Indexes/Human-In-The-Loop Learning Index.md",
-    "Indexes/_Indexes List.md",
-    "TODO/Curriculum Learning.md",
-    "Textbooks/Sutton 2018.pdf",
+    "LitNotes/Knox 2009.md",
+    "LitNotes/Booth 2023.md",
+    "Papers/Booth 2023.pdf",
     "PermNotes/Learning from Reinforcement (Shaping).md",
     "PermNotes/Learning from Demonstration.md",
     "PermNotes/Learning from Advice.md",
     "PermNotes/Hungry Thirsty Environment.md",
-    "Papers/Knox 2009.pdf",
-    "Papers/Booth 2023.pdf",
-    "Papers/_Reading List.md",
-    "LitNotes/Knox 2009.md",
-    "LitNotes/Booth 2023.md",
     "Indexes/Human-In-The-Loop Papers Index.md",
+    "Indexes/_Indexes List.md",
+    "Papers/Knox 2009.pdf",
+    "__Media/Screenshot 2023-10-02 at 4.53.22 PM.png",
+    "__Media/Screenshot 2023-10-02 at 4.36.29 PM.png",
+    "__Media/Screenshot 2023-10-02 at 4.33.51 PM.png",
+    "__Media/Screenshot 2023-10-02 at 1.56.57 PM.png",
+    "__Media/Screenshot 2023-10-02 at 2.33.48 PM.png",
+    "__Media/Screenshot 2023-09-11 at 8.25.58 PM.png",
+    "__Media/Screenshot 2023-09-11 at 8.25.51 PM.png",
+    "__Media/Screenshot 2023-09-11 at 8.25.35 PM.png",
+    "__Media/Screenshot 2023-09-11 at 8.25.16 PM.png",
+    "__Media/Screenshot 2023-09-11 at 7.57.36 PM.png",
+    "__Archive/How to Read Academic Papers.md",
+    "__Templates/Description Template.md",
+    "__Archive/Literature Note Template Description.md",
+    "__Archive/Permanent Note Description.md",
+    "Papers/_Unread/Bassen 2020.pdf",
+    "Papers/_Reading List.md",
+    "Papers/_Unread/Santacroce 2023.pdf",
+    "TODO/Curriculum Learning.md",
+    "__Archive/PyCharm.md",
+    "__Archive/Obsidian.md",
+    "__Archive/How to Read a Journal Article in 10 Minutes or Less.md",
+    "__Templates/__Template Descriptions/__Properties/Summary.md",
+    "Textbooks/Sutton 2018.pdf",
     "__Templates/__Template Descriptions/__Properties/Title.md",
-    "__Templates/__Template Descriptions/__Properties/Year.md",
-    "__Templates/__Template Descriptions/__Properties/Tags.md",
-    "__Templates/__Template Descriptions/__Properties/Related.md",
-    "__Templates/__Template Descriptions/__Properties/Rating.md",
-    "__Templates/__Template Descriptions/__Properties/Keywords.md",
-    "__Templates/__Template Descriptions/__Properties/DOI.md",
-    "__Templates/__Template Descriptions/__Properties/Created.md",
-    "__Templates/__Template Descriptions/__Properties/Authors.md",
-    "__Templates/__Template Descriptions/__Properties/Accessed.md",
-    "__Media/Curriculum Learning.png",
-    "__Media/Screenshot 2023-08-08 at 4.58.59 PM.png",
-    "__Media/Screenshot 2023-08-08 at 4.59.28 PM.png",
-    "__Media/Screenshot 2023-08-08 at 4.58.42 PM.png",
-    "__Media/Screenshot 2023-08-11 at 3.35.31 PM.png",
-    "__Media/Screenshot 2023-09-24 at 2.11.13 PM.png",
-    "__Media/Screenshot 2023-09-12 at 4.36.57 PM.png",
-    "__Media/Screenshot 2023-09-12 at 4.32.45 PM.png",
-    "__Media/Screenshot 2023-09-12 at 4.28.30 PM.png",
-    "__Media/Screenshot 2023-09-11 at 5.13.31 PM.png",
     "Textbooks/Goodfellow 2016.pdf",
     "Textbooks/Ravichandiran 2018.pdf",
     "Textbooks/Zou 2023.pdf",
     "Papers/Mathewson 2019.pdf",
-    "Papers/Weld 2019.pdf",
-    "Papers/Finn 2017.pdf",
-    "Papers/Amir 2016.pdf"
+    "Papers/Weld 2019.pdf"
   ]
 }

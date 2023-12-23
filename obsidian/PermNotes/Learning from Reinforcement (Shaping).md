@@ -9,6 +9,7 @@ related:
   - "[[Learning from Demonstration]]"
   - "[[Learning from Advice]]"
   - "[[Clicker Training]]"
+index:
 ---
 >[!snapshot]
 >An agent learns to perform a task through a human-provided reward signal, which may be positive or negative.

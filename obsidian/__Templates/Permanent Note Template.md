@@ -2,8 +2,9 @@
 title: "{{title}}"
 created: "{{date}}"
 accessed: "{{date}}"
-tags: []
-related:
+tags: 
+related: 
+index:
 ---
 >[!snapshot]
 >
@@ -17,3 +18,5 @@ related:
 >[!Examples]
 
 >[!references]
+
+>[!related-pn] Related

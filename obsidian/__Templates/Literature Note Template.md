@@ -1,18 +1,20 @@
 ---
 title: 
-author(s): []
+author(s): 
 year: 
 doi: 
 summary: ""
-keyword(s): []
-quality rating: -/5
-relevance rating: -/5
+keyword(s): 
+"% read": 
+quality rating: 
+relevance rating: 
 created: "{{date}}"
 accessed: "{{date}}"
 tags: 
-related: []
+related: 
+index:
 ---
-## [[{{title}}.pdf|title]]
+# [[{{title}}.pdf|title]]
 
 >[!summary]
 >
@@ -31,4 +33,4 @@ related: []
 
 >[!implications-and-future-work] Implications and Future Work
 
-
+>[!related-ln] Related

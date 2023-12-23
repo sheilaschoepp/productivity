@@ -12,10 +12,11 @@ doi: https://doi.org/10.1609/aaai.v37i5.25733
 summary: The paper demonstrates that reward shaping often leads to overfitting to the algorithm and its hyperparameters.
 keyword(s):
   - shaping
-quality rating: 4/5
-relevance rating: 0/5
+"% read": "100"
+quality rating: "4"
+relevance rating: "0"
 created: 2023-10-01
-accessed: 2023-10-01
+accessed: 2023-12-23
 tags:
   - HumanInTheLoopLearning
   - ReinforcementLearning
@@ -26,11 +27,11 @@ related:
   - "[[Myopic]]"
   - "[[Learning from Reinforcement (Shaping)]]"
   - "[[Apprenticeship Learning]]"
+index:
 ---
-## [[Booth 2023.pdf|The Perils of Trial-and-Error Reward Design: Misdesign through Overfitting and Invalid Task Specifications]]
+# [[Booth 2023.pdf|The Perils of Trial-and-Error Reward Design: Misdesign through Overfitting and Invalid Task Specifications]]
 
 >[!summary]
->
 
 >[!central-problem] Central Problem
 >In many reinforcement learning (RL) environments, the best task metric is to evaluate whether the agent was successful at the task (receiving a reward of +1 upon completion) or unsuccessful (receiving a reward of 0 upon completion). This sparse reward structure makes it more difficult for RL agents to learn. Often, experts opt to replace the sparse reward function with a dense reward function that provides feedback to the agent more often. The design of the dense reward function is often done through a trial-and-error, testing each new reward function to ensure that it maximizes performance and improves learning speed. The question arises on whether the same reward function can be used across all RL algorithms, or if there is a tendency of overfit a reward function to a particular algorithm.

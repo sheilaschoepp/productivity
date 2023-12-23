@@ -13,7 +13,7 @@ Defining why you are reading the paper will shape the type of reading you will d
 
 ## First Pass: Bird's Eye Method (Helicopter View)
 
-![[Screenshot 2023-09-12 at 4.28.30 PM.png|300]]
+![[reading_papers_birds_eye_method.png|300]]
 
 Read the title and abstract.  Scan through the rest of the paper.  Ask yourself if this is something you want to go forward with?  Is it something that you actually need to read to fulfill your purpose?
 
@@ -23,7 +23,7 @@ Read the paper to get the gist.  Determine if this paper is relevant for your wh
 
 ## Second Pass: The Swoop Method (Hawk Swoops in to Grab Mouse)
 
-![[Screenshot 2023-09-12 at 4.32.45 PM.png|300]]
+![[reading_papers_swoop_method.png|300]]
 
 Swoop in to figure out:
 * What is the debate?
@@ -41,7 +41,7 @@ The swoop method will answer 97% of the why's you need for reading a particular 
 
 # Third Pass: Street Level Method (Take a Look Around)
 
-![[Screenshot 2023-09-12 at 4.36.57 PM.png|300]]
+![[reading_papers_street_level_method.png|300]]
 
 There are some cases where you will need to read the full paper.  At this point, you will want to print the paper out and make a physical copy (potentially to highlight or mark up).  This is where you will go deep with a paper.  
 
