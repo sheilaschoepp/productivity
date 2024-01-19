@@ -24,6 +24,14 @@ The Obsidian valut includes sample literature notes and sample permanent notes, 
 
 ![Reading List Template](https://github.com/sheilaschoepp/productivity/blob/main/images/Reading%20List%20Template.png?raw=true)
 
+### Markdown Guide(s)
+
+[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+
+[Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+
+[Markdown Extended Syntax](https://www.markdownguide.org/extended-syntax/)
+
 ## PhD Progress Excel Sheet
 
 ### Annual PhD Goals Template
