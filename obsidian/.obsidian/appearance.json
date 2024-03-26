@@ -3,7 +3,16 @@
   "theme": "moonstone",
   "nativeMenus": false,
   "enabledCssSnippets": [
-    "custom_callouts"
+    "custom_callouts",
+    "eisenhower_matrix_kaban",
+    "eisenhower_matrix_kanban",
+    "custom_task_list",
+    "custom_dataview",
+    "custom_eisenhower_matrix_kanban",
+    "custom_filenames",
+    "custom_folder_colours"
   ],
-  "baseFontSize": 16
+  "baseFontSize": 19,
+  "cssTheme": "",
+  "translucency": false
 }

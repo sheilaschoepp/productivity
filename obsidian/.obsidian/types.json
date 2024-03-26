@@ -9,9 +9,26 @@
     "year": "text",
     "doi": "text",
     "rating": "text",
-    "% read": "number",
+    "quality rating (-/5)": "number",
+    "relevance rating (-/5)": "number",
     "quality rating": "number",
+    "% read": "number",
     "relevance rating": "number",
-    "index": "multitext"
+    "accessed": "date",
+    "author(s)": "multitext",
+    "type": "text",
+    "index": "text",
+    "completed": "checkbox",
+    "keyword(s)": "multitext",
+    "gpt relevance rating": "number",
+    "abstract": "checkbox",
+    "read in full": "checkbox",
+    "read: introduction": "checkbox",
+    "read": "checkbox",
+    "gpt-quality": "number",
+    "date": "date",
+    "gpt-relevance": "number",
+    "relevance": "number",
+    "quality": "number"
   }
 }

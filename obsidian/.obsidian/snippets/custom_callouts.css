@@ -2,48 +2,108 @@
 
 LITERATURE NOTES
 
-Sixteen-A Color Palette
-https://www.color-hex.com/color-palette/1027990
-https://coolors.co/visualizer/1166aa-66aa11-aa6611-aa1166-6611aa-11aa66
-
 */
 
+.callout[data-callout="reading-progress"] {
+    --callout-color: 29, 113, 173; /* Bice Blue */
+    --callout-icon: lucide-book-open;
+}
+
 .callout[data-callout="summary"] {
-    --callout-color: 17,102,170;
+    --callout-color: 244, 114, 0; /* Safety Orange */
     --callout-icon: lucide-list;
 }
 
 .callout[data-callout="central-problem"] {
-    --callout-color: 102,170,17;
+    --callout-color: 43, 156, 42; /* Forest Green */
     --callout-icon: lucide-unlink;
 }
 
 .callout[data-callout="proposed-solution"] {
-    --callout-color: 170,102,17;
+    --callout-color: 198, 36, 36; /* Fire Engine Red */
     --callout-icon: lucide-lightbulb;
 }
 
 .callout[data-callout="methodology"] {
-    --callout-color: 170,17,102;
+    --callout-color: 134, 81, 181; /* Royal Purple */
     --callout-icon: lucide-brain-cog;
 }
 
 .callout[data-callout="results"] {
-    --callout-color: 102,17,170;
+    --callout-color: 136, 82, 71; /* Bole */
     --callout-icon: lucide-bar-chart-3;
 }
 
 .callout[data-callout="implications-and-future-work"] {
-    --callout-color: 17,170,102;
+    --callout-color: 219, 80, 177; /* Shocking Pink */
     --callout-icon: lucide-door-open;
 }
+
+.callout[data-callout="related-ln"] {
+    --callout-color: 117, 117, 117; /* Gray */
+    --callout-icon: lucide-network;
+}
+
+.callout[data-callout="research-questions"] {
+    --callout-color: 180, 180, 32; /* Old Gold */
+    --callout-icon: lucide-microscope;
+}
+
+.callout[data-callout="my-notes"] {
+    --callout-color: 18, 179, 194; /* Moonstone */
+    --callout-icon: lucide-sticky-note;
+}
+
+
+/*
+
+Sixteen-A Color Palette
+https://www.color-hex.com/color-palette/1027990
+https://coolors.co/visualizer/1166aa-66aa11-aa6611-aa1166-6611aa-11aa66
+
+.callout[data-callout="summary"] {
+    --callout-color: 46, 134, 171;
+    --callout-icon: lucide-list;
+}
+
+.callout[data-callout="central-problem"] {
+    --callout-color: 100, 2, 99;
+    --callout-icon: lucide-unlink;
+}
+
+.callout[data-callout="proposed-solution"] {
+    --callout-color: 187, 3, 1049;
+    --callout-icon: lucide-lightbulb;
+}
+
+.callout[data-callout="methodology"] {
+    --callout-color: 71, 145, 87;
+    --callout-icon: lucide-brain-cog;
+}
+
+.callout[data-callout="results"] {
+    --callout-color: 75, 162, 176;
+    --callout-icon: lucide-bar-chart-3;
+}
+
+.callout[data-callout="implications-and-future-work"] {
+    --callout-color: 194, 82, 99;
+    --callout-icon: lucide-door-open;
+}
+
+.callout[data-callout="related-ln"] {
+    --callout-color: 205, 165, 112;
+    --callout-icon: lucide-network;
+}
+
+*/
 
 
 /*
 
 PERMANENT NOTES
 
-8 Color Palette
+8-colour palette.
 https://colorswall.com/palette/171299
 
 */
@@ -73,7 +133,7 @@ https://colorswall.com/palette/171299
     --callout-icon: lucide-library;
 }
 
-.callout[data-callout="related"] {
+.callout[data-callout="related-pn"] {
     --callout-color: 248, 203, 141;
     --callout-icon: lucide-network;
 }

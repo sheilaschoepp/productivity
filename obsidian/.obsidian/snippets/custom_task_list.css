@@ -1,0 +1,5 @@
+/* Removes strike-through for task lists */
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task]:not([data-task=" "]) {
+    text-decoration:none;
+    color: #50C878;
+}
