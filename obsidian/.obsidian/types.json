@@ -29,6 +29,10 @@
     "date": "date",
     "gpt-relevance": "number",
     "relevance": "number",
-    "quality": "number"
+    "quality": "number",
+    "publications": "multitext",
+    "publication": "text",
+    "publication(s)": "number",
+    "publication(": "text"
   }
 }

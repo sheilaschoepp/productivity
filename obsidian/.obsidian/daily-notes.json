@@ -1,6 +1,6 @@
 {
   "autorun": false,
-  "folder": "Research Diary",
+  "folder": "100 Research Diary",
   "format": "YYYY/MM-MMMM/YYYY-MM-DD-dddd",
-  "template": "__Templates/Research Diary Template"
+  "template": "C00 Templates/Research Diary Template"
 }

@@ -2,13 +2,15 @@
 title: The title of the note.
 author(s):
   - A list of authors for the publication described in the note.
-publication: Information about where the paper was published.
-year: The year of the publication described in the note.
+publication: The venue where the publication mentioned in the note is published.
+date: The date of the publication described in the note.
 doi: The DOI for the publication described in the note.
 summary: A one line summary of the publication described in the note.
 keyword(s):
   - A list of keywords for the publication described in the note.
-read: A checkmark indicates that the publication has been read in full.
+scholar link: A link to results of a Google Scholar search for the publication title.
+citations: The number of citations as of the last date the note was accessed.
+read: A check mark indicates that the publication has been read in full.
 quality: The quality rating (-/5) for the publication described in the note. Quality is a measure of the publication's originality, clarity and coherence, methodological rigour, contribution, comprehensive literature review, soundness, quality of data and evidence, and ethical considerations.
 relevance: The relevance rating (-/5) for the publication described in the note. Relevance is a measure of how relevant the publication is to your personal research.
 created: The date the note was created.

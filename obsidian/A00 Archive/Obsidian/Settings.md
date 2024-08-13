@@ -10,7 +10,7 @@
 
 ## Bookmark Page of PDF
 
-To bookmark the page of a PDF file, use [[Goodfellow 2016.pdf#page=1]].
+To bookmark the page of a PDF file, use [[bengio2015deep.pdf#page=1]].
 
 ## Set Size of Image
 

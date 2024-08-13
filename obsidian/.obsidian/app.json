@@ -1,6 +1,6 @@
 {
   "showInlineTitle": false,
-  "attachmentFolderPath": "__Media",
+  "attachmentFolderPath": "B00 Media",
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
     "includeName": true,
@@ -9,7 +9,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "newFileLocation": "root",
+  "newFileLocation": "current",
   "newFileFolderPath": "TODO",
   "autoPairMarkdown": false,
   "autoPairBrackets": true,

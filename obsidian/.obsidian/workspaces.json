@@ -212,7 +212,7 @@
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "Papers/Beck 2023.pdf"
+                    "file": "200 Papers/Xie 2024.pdf"
                   }
                 }
               }
@@ -228,8 +228,9 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "LiteratureNotes/Beck 2023.md",
+                    "file": "300 Literature Notes/Xie 2024.md",
                     "mode": "source",
+                    "backlinks": true,
                     "source": false
                   }
                 }
@@ -301,7 +302,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Papers/Beck 2023.pdf",
+                    "file": "300 Literature Notes/Xie 2024.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -318,7 +319,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Papers/Beck 2023.pdf",
+                    "file": "300 Literature Notes/Xie 2024.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -341,7 +342,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Papers/Beck 2023.pdf"
+                    "file": "300 Literature Notes/Xie 2024.md"
                   }
                 }
               }
@@ -358,7 +359,7 @@
                 "state": {
                   "type": "file-properties",
                   "state": {
-                    "file": "Papers/Beck 2023.pdf"
+                    "file": "300 Literature Notes/Xie 2024.md"
                   }
                 }
               },
@@ -392,7 +393,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "f3e7bee9e72441f6"
+      "active": "d26cd885d73a60f2",
+      "mtime": "2024-05-03T14:34:28-06:00"
     }
   },
   "active": "LN"

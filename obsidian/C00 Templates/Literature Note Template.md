@@ -2,10 +2,12 @@
 title: 
 author(s): 
 publication: 
-year: 
+date: 
 doi: 
-summary: ""
+summary: 
 keyword(s): 
+scholar link: 
+citations: 
 read: 
 quality: 
 relevance: 

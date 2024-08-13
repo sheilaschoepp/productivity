@@ -4,19 +4,60 @@
     "type": "split",
     "children": [
       {
-        "id": "4b01137315072b00",
+        "id": "f6e7685718159a12",
         "type": "tabs",
+        "dimension": 59.77961432506888,
         "children": [
           {
-            "id": "54579cccfb8c0648",
+            "id": "ba093ce478d2d016",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "200 Papers/Noah Shinn 2024.pdf"
+              }
+            }
+          },
+          {
+            "id": "56fb6adb4f343ba5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 TODO/Reading List.md",
+                "file": "500 Permanent Notes/Semantic Knowledge.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "560d21c7c74cff12",
+        "type": "tabs",
+        "dimension": 40.22038567493113,
+        "children": [
+          {
+            "id": "7d74f544f652e3bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300 Literature Notes/Noah Shinn 2024.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5239b2f1d0d891b2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "200 Papers/Noah Shinn 2024.pdf"
               }
             }
           }
@@ -70,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "8365638d803a8a40",
@@ -86,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 TODO/Reading List.md",
+                "file": "200 Papers/Noah Shinn 2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 TODO/Reading List.md",
+                "file": "200 Papers/Noah Shinn 2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 TODO/Reading List.md"
+                "file": "200 Papers/Noah Shinn 2024.pdf"
               }
             }
           }
@@ -143,7 +185,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "000 TODO/Reading List.md"
+                "file": "200 Papers/Noah Shinn 2024.pdf"
               }
             }
           },
@@ -177,45 +219,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "54579cccfb8c0648",
+  "active": "ba093ce478d2d016",
   "lastOpenFiles": [
-    "000 TODO/e-matrix.md",
-    "000 TODO/Reading List.md",
-    "200 Papers/shinn2024reflexion.pdf",
-    "300 Literature Notes/shinn2024reflexion.md",
-    "400 Citation Notes/Foundation Models Citations.md",
-    "100 Research Diary/2024/08-August/2024-08-12-Monday.md",
-    "100 Research Diary/2024/08-August",
-    "100 Research Diary/2024",
-    "600 Index Notes/Foundation Models Index.md",
-    "700 Presentations/empty.pdf",
+    "100 Research Diary/2024/02-February",
     "B00 Media/Cardinality.png",
-    "C00 Templates/Citation Note Template.md",
-    "C00 Templates/GPT Template.md",
-    "C00 Templates/Index Note Template.md",
-    "C00 Templates/Literature Note Template.md",
-    "C00 Templates/Permanent Note Template.md",
-    "C00 Templates/Reading List Note Template.md",
-    "C00 Templates/Research Diary Template.md",
-    "A00 Archive/Obsidian/Settings.md",
-    "A00 Archive/Templates/Research Diary Template Description.md",
-    "A00 Archive/Templates/Reading List Note Template Description.md",
-    "A00 Archive/Templates/Literature Note Template Description.md",
-    "A00 Archive/Templates/Index Note Template Description.md",
-    "A00 Archive/Templates/GPT Template Description.md",
-    "A00 Archive/Templates/Citation Note Template Description.md",
-    "600 Index Notes/Mathematics Index.md",
-    "600 Index Notes/General Index.md",
-    "500 Permanent Notes/Cardinality.md",
-    "400 Citation Notes/Meta-Learning Citations.md",
-    "300 Literature Notes/afshar2024delf.md",
-    "300 Literature Notes/Aman Madaan 2024.md",
-    "D00 Textbooks/sutton2018reinforcement.pdf",
-    "D00 Textbooks/Zou 2023.pdf",
-    "D00 Textbooks/The Elements of Style.pdf",
-    "D00 Textbooks/bengio2015deep.pdf",
-    "D00 Textbooks/Ravichandiran 2018.pdf",
-    "200 Papers/Goodfellow 2016.pdf",
+    "500 Permanent Notes/In-Context Examples.md",
+    "500 Permanent Notes/Semantic Knowledge.md",
+    "500 Permanent Notes/Semantic.md",
+    "A00 Archive/GPTs/Obsidian Permanent Note.md",
+    "A00 Archive/GPTs/Obsidian Literature Note.md",
+    "500 Permanent Notes/Occam's Razor.md",
     "B00 Media/Obsidian Literature Note.png",
     "B00 Media/Obsidian Permanent Note.png",
     "B00 Media/Model-Agnostic Meta-Learning.png",
@@ -224,6 +237,35 @@
     "B00 Media/Expectation.png",
     "B00 Media/Cartesian Product.png",
     "B00 Media/Base Policy.png",
-    "B00 Media/Semantic Knowledge.jpeg"
+    "B00 Media/Semantic Knowledge.jpeg",
+    "000 TODO/e-matrix.md",
+    "200 Papers/Noah Shinn 2024.pdf",
+    "300 Literature Notes/Noah Shinn 2024.md",
+    "300 Literature Notes/Tianbao Xie 2024.md",
+    "200 Papers/Aida Afshar 2024.pdf",
+    "200 Papers/OpenAI 2024.pdf",
+    "200 Papers/NeurIPS 2024.pdf",
+    "200 Papers/Yue Wu 2024.pdf",
+    "300 Literature Notes/Yue Wu 2023a.md",
+    "300 Literature Notes/Yue Wu 2023b.md",
+    "300 Literature Notes/Aida Afshar 2024.md",
+    "200 Papers/Xie 2024.pdf",
+    "200 Papers/Tianbao Xie 2024.pdf",
+    "200 Papers/Yue Wu 2023b.pdf",
+    "200 Papers/Wu 2023a.pdf",
+    "200 Papers/Yue Wu 2023a.pdf",
+    "300 Literature Notes/Zhang D 2023.md",
+    "A00 Archive/GPTs/Grammar Assistant.md",
+    "500 Permanent Notes/Semi-Structured Text.md",
+    "500 Permanent Notes/Structured Text.md",
+    "000 TODO/Reading List.md",
+    "000 TODO/Notes TODO.md",
+    "000 TODO/Notes REVIEW.md",
+    "000 TODO/ChatGPT Words Black List.md",
+    "C00 Templates/Research Diary Template.md",
+    "C00 Templates/Reading List Note Template.md",
+    "C00 Templates/Permanent Note Template.md",
+    "C00 Templates/Literature Note Template.md",
+    "C00 Templates/Meeting Note Template.md"
   ]
 }
