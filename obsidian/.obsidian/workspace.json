@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 TODO/Reading List.md",
+                "file": "100 Research Diary/2024/08-August/2024-08-13-Tuesday.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 TODO/Reading List.md",
+                "file": "100 Research Diary/2024/08-August/2024-08-13-Tuesday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 TODO/Reading List.md",
+                "file": "100 Research Diary/2024/08-August/2024-08-13-Tuesday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 TODO/Reading List.md"
+                "file": "100 Research Diary/2024/08-August/2024-08-13-Tuesday.md"
               }
             }
           }
@@ -143,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "000 TODO/Reading List.md"
+                "file": "100 Research Diary/2024/08-August/2024-08-13-Tuesday.md"
               }
             }
           },
@@ -179,14 +179,16 @@
   },
   "active": "54579cccfb8c0648",
   "lastOpenFiles": [
-    "000 TODO/e-matrix.md",
     "000 TODO/Reading List.md",
+    "100 Research Diary/2024/08-August/2024-08-13-Tuesday.md",
+    "100 Research Diary/2024/08-August",
+    "100 Research Diary/2024",
+    "100 Research Diary/Untitled.md",
+    "000 TODO/e-matrix.md",
     "200 Papers/shinn2024reflexion.pdf",
     "300 Literature Notes/shinn2024reflexion.md",
     "400 Citation Notes/Foundation Models Citations.md",
     "100 Research Diary/2024/08-August/2024-08-12-Monday.md",
-    "100 Research Diary/2024/08-August",
-    "100 Research Diary/2024",
     "600 Index Notes/Foundation Models Index.md",
     "700 Presentations/empty.pdf",
     "B00 Media/Cardinality.png",
@@ -208,8 +210,6 @@
     "600 Index Notes/General Index.md",
     "500 Permanent Notes/Cardinality.md",
     "400 Citation Notes/Meta-Learning Citations.md",
-    "300 Literature Notes/afshar2024delf.md",
-    "300 Literature Notes/Aman Madaan 2024.md",
     "D00 Textbooks/sutton2018reinforcement.pdf",
     "D00 Textbooks/Zou 2023.pdf",
     "D00 Textbooks/The Elements of Style.pdf",
