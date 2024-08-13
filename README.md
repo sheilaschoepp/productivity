@@ -10,19 +10,19 @@ The Obsidian valut includes sample literature notes and sample permanent notes, 
 
 ### Literature Note Template
 
-![Literature Note Template](https://github.com/sheilaschoepp/productivity/blob/main/images/Literature%20Note%20Template.png?raw=true)
+![Literature Note Template](https://github.com/sheilaschoepp/productivity/blob/main/images/Literature%20Note%20Template.png)
 
 ### Permanent Note Template
 
-![Permanent Note Template](https://github.com/sheilaschoepp/productivity/blob/main/images/Permanent%20Note%20Template.png?raw=true)
+![Permanent Note Template](https://github.com/sheilaschoepp/productivity/blob/main/images/Permanent%20Note%20Template.png)
 
 ### Index Template
 
-![Index Template](https://github.com/sheilaschoepp/productivity/blob/main/images/Index%20Template.png?raw=true)
+![Index Note Template](https://github.com/sheilaschoepp/productivity/blob/main/images/Index%20Note%20Template.png)
 
 ### Reading List Template
 
-![Reading List Template](https://github.com/sheilaschoepp/productivity/blob/main/images/Reading%20List%20Template.png?raw=true)
+![Reading List Template](https://github.com/sheilaschoepp/productivity/blob/main/images/Reading%20List%20Template.png)
 
 ### Markdown Guide(s)
 
