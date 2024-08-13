@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4b01137315072b00",
+        "id": "853f45210591160b",
         "type": "tabs",
         "children": [
           {
-            "id": "54579cccfb8c0648",
+            "id": "2fc4f25d5f55a25d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Research Diary/2024/08-August/2024-08-13-Tuesday.md",
+                "file": "C00 Templates/Reading List Note Template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Research Diary/2024/08-August/2024-08-13-Tuesday.md",
+                "file": "C00 Templates/Reading List Note Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Research Diary/2024/08-August/2024-08-13-Tuesday.md",
+                "file": "C00 Templates/Reading List Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Research Diary/2024/08-August/2024-08-13-Tuesday.md"
+                "file": "C00 Templates/Reading List Note Template.md"
               }
             }
           }
@@ -143,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "100 Research Diary/2024/08-August/2024-08-13-Tuesday.md"
+                "file": "C00 Templates/Reading List Note Template.md"
               }
             }
           },
@@ -177,16 +177,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "54579cccfb8c0648",
+  "active": "2fc4f25d5f55a25d",
   "lastOpenFiles": [
-    "000 TODO/Reading List.md",
+    "C00 Templates/Index Note Template.md",
+    "C00 Templates/Permanent Note Template.md",
+    "C00 Templates/Literature Note Template.md",
+    "300 Literature Notes/shinn2024reflexion.md",
     "100 Research Diary/2024/08-August/2024-08-13-Tuesday.md",
+    "000 TODO/Reading List.md",
     "100 Research Diary/2024/08-August",
     "100 Research Diary/2024",
     "100 Research Diary/Untitled.md",
     "000 TODO/e-matrix.md",
     "200 Papers/shinn2024reflexion.pdf",
-    "300 Literature Notes/shinn2024reflexion.md",
     "400 Citation Notes/Foundation Models Citations.md",
     "100 Research Diary/2024/08-August/2024-08-12-Monday.md",
     "600 Index Notes/Foundation Models Index.md",
@@ -194,9 +197,6 @@
     "B00 Media/Cardinality.png",
     "C00 Templates/Citation Note Template.md",
     "C00 Templates/GPT Template.md",
-    "C00 Templates/Index Note Template.md",
-    "C00 Templates/Literature Note Template.md",
-    "C00 Templates/Permanent Note Template.md",
     "C00 Templates/Reading List Note Template.md",
     "C00 Templates/Research Diary Template.md",
     "A00 Archive/Obsidian/Settings.md",
