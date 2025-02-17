@@ -1,0 +1,3 @@
+/* The max value that "--bold-modifier" will accept is 549. If your value
+exceeds that, bold text will look the same as regular text. */
+.theme-dark { --bold-modifier : 540; }

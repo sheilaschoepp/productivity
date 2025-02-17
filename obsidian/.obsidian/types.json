@@ -17,7 +17,7 @@
     "accessed": "date",
     "author(s)": "multitext",
     "type": "text",
-    "index": "text",
+    "index": "multitext",
     "completed": "checkbox",
     "keyword(s)": "multitext",
     "gpt relevance rating": "number",
@@ -33,6 +33,11 @@
     "publications": "multitext",
     "publication": "text",
     "publication(s)": "number",
-    "publication(": "text"
+    "publication(": "text",
+    "indices": "multitext",
+    "modified": "date",
+    "affiliation(s)": "multitext",
+    "Capabilities": "multitext",
+    "Additional Settings": "checkbox"
   }
 }

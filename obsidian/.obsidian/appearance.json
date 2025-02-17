@@ -1,5 +1,5 @@
 {
-  "accentColor": "",
+  "accentColor": "#a074e2",
   "theme": "moonstone",
   "nativeMenus": false,
   "enabledCssSnippets": [
@@ -7,12 +7,17 @@
     "eisenhower_matrix_kaban",
     "eisenhower_matrix_kanban",
     "custom_task_list",
-    "custom_dataview",
     "custom_eisenhower_matrix_kanban",
     "custom_filenames",
-    "custom_folder_colours"
+    "custom_folder_colours",
+    "custom_coloured_sections",
+    "custom_image_positions",
+    "custom_reading_progress_grid"
   ],
-  "baseFontSize": 19,
+  "baseFontSize": 16,
   "cssTheme": "",
-  "translucency": false
+  "translucency": false,
+  "interfaceFontFamily": "Comic Sans MS",
+  "baseFontSizeAction": true,
+  "textFontFamily": ""
 }

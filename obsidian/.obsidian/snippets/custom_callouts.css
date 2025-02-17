@@ -1,103 +1,168 @@
 /*
 
+Callout Styles
+
+*/
+
+/* This targets the icon and title inside each callout. Adjust font
+sizes to make them larger. */
+
+/* For the callout title, adjust its font size to match h2 */
+.callout-title {
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.2;
+}
+
+.callout[data-callout] {
+    --icon-size: 22px;
+}
+
+/* Individual Callout Colors and Icons */
+
+
+/*
+
+https://coolors.co/
+
+*/
+
+/*
+
+FLEETING NOTES
+
+*/
+
+.callout[data-callout="fleeting-note"] {
+    --callout-color: 36, 123, 160; /* Cerulean */
+    --callout-icon: zap;
+}
+
+/*
+
 LITERATURE NOTES
 
 */
 
 .callout[data-callout="reading-progress"] {
-    --callout-color: 29, 113, 173; /* Bice Blue */
+    --callout-color: 218, 112, 214; /* Orchid */
     --callout-icon: lucide-book-open;
 }
 
 .callout[data-callout="summary"] {
-    --callout-color: 244, 114, 0; /* Safety Orange */
+    --callout-color: 186, 85, 211; /* Medium Orchid */
     --callout-icon: lucide-list;
 }
 
 .callout[data-callout="central-problem"] {
-    --callout-color: 43, 156, 42; /* Forest Green */
+    --callout-color: 138, 43, 226; /* Blue Violet */
     --callout-icon: lucide-unlink;
 }
 
 .callout[data-callout="proposed-solution"] {
-    --callout-color: 198, 36, 36; /* Fire Engine Red */
+    --callout-color: 106, 90, 205; /* Slate Blue */
     --callout-icon: lucide-lightbulb;
 }
 
+.callout[data-callout="theoretical-framework"] {
+    --callout-color: 30, 144, 255; /* Dodger Blue */
+    --callout-icon: lucide-layers;
+}
+
 .callout[data-callout="methodology"] {
-    --callout-color: 134, 81, 181; /* Royal Purple */
+    --callout-color: 70, 130, 180; /* Steel Blue */
     --callout-icon: lucide-brain-cog;
 }
 
+.callout[data-callout="evaluation"] {
+    --callout-color: 32, 178, 170; /* Light Sea Green */
+    --callout-icon: lucide-ruler;
+}
+
 .callout[data-callout="results"] {
-    --callout-color: 136, 82, 71; /* Bole */
+    --callout-color: 60, 179, 113; /* Medium Sea Green */
     --callout-icon: lucide-bar-chart-3;
 }
 
 .callout[data-callout="implications-and-future-work"] {
-    --callout-color: 219, 80, 177; /* Shocking Pink */
+    --callout-color: 107, 142, 35; /* Olive Drab */
     --callout-icon: lucide-door-open;
-}
-
-.callout[data-callout="related-ln"] {
-    --callout-color: 117, 117, 117; /* Gray */
-    --callout-icon: lucide-network;
 }
 
 .callout[data-callout="research-questions"] {
-    --callout-color: 180, 180, 32; /* Old Gold */
+    --callout-color: 218, 165, 32; /* Goldenrod */
     --callout-icon: lucide-microscope;
 }
 
-.callout[data-callout="my-notes"] {
-    --callout-color: 18, 179, 194; /* Moonstone */
-    --callout-icon: lucide-sticky-note;
-}
-
-
-/*
-
-Sixteen-A Color Palette
-https://www.color-hex.com/color-palette/1027990
-https://coolors.co/visualizer/1166aa-66aa11-aa6611-aa1166-6611aa-11aa66
-
-.callout[data-callout="summary"] {
-    --callout-color: 46, 134, 171;
-    --callout-icon: lucide-list;
-}
-
-.callout[data-callout="central-problem"] {
-    --callout-color: 100, 2, 99;
-    --callout-icon: lucide-unlink;
-}
-
-.callout[data-callout="proposed-solution"] {
-    --callout-color: 187, 3, 1049;
-    --callout-icon: lucide-lightbulb;
-}
-
-.callout[data-callout="methodology"] {
-    --callout-color: 71, 145, 87;
-    --callout-icon: lucide-brain-cog;
-}
-
-.callout[data-callout="results"] {
-    --callout-color: 75, 162, 176;
-    --callout-icon: lucide-bar-chart-3;
-}
-
-.callout[data-callout="implications-and-future-work"] {
-    --callout-color: 194, 82, 99;
-    --callout-icon: lucide-door-open;
-}
-
-.callout[data-callout="related-ln"] {
-    --callout-color: 205, 165, 112;
+.callout[data-callout="additional-notes"] {
+    --callout-color: 255, 140, 0; /* Dark Orange */
     --callout-icon: lucide-network;
 }
 
-*/
+.callout[data-callout="related-ln"] {
+    --callout-color: 255, 99, 71; /* Tomato */
+    --callout-icon: lucide-network;
+}
 
+/*.callout[data-callout="reading-progress"] {*/
+/*    --callout-color: 29, 113, 173; !* Bice Blue *!*/
+/*    --callout-icon: lucide-book-open;*/
+/*}*/
+
+/*.callout[data-callout="summary"] {*/
+/*    --callout-color: 244, 114, 0; !* Safety Orange *!*/
+/*    --callout-icon: lucide-list;*/
+/*}*/
+
+/*.callout[data-callout="central-problem"] {*/
+/*    --callout-color: 43, 156, 42; !* Forest Green *!*/
+/*    --callout-icon: lucide-unlink;*/
+/*}*/
+
+/*.callout[data-callout="proposed-solution"] {*/
+/*    --callout-color: 198, 36, 36; !* Fire Engine Red *!*/
+/*    --callout-icon: lucide-lightbulb;*/
+/*}*/
+
+/*.callout[data-callout="theoretical-framework"] {*/
+/*    --callout-color: 134, 81, 181; !* Royal Purple *!*/
+/*    --callout-icon: lucide-layers;*/
+/*}*/
+
+/*.callout[data-callout="methodology"] {*/
+/*    --callout-color: 136, 82, 71; !* Bole *!*/
+/*    --callout-icon: lucide-brain-cog;*/
+/*}*/
+
+/*.callout[data-callout="evaluation"] {*/
+/*    --callout-color: 219, 80, 177; !* Shocking Pink *!*/
+/*    --callout-icon: lucide-ruler;*/
+/*}*/
+
+/*.callout[data-callout="results"] {*/
+/*    --callout-color: 117, 117, 117; !* Gray *!*/
+/*    --callout-icon: lucide-bar-chart-3;*/
+/*}*/
+
+/*.callout[data-callout="implications-and-future-work"] {*/
+/*    --callout-color: 180, 180, 32; !* Old Gold *!*/
+/*    --callout-icon: lucide-door-open;*/
+/*}*/
+
+/*.callout[data-callout="research-questions"] {*/
+/*    --callout-color: 18, 179, 194; !* Moonstone *!*/
+/*    --callout-icon: lucide-microscope;*/
+/*}*/
+
+/*.callout[data-callout="additional-notes"] {*/
+/*     --callout-icon: lucide-network; !* Blue todo *!*/
+/*    --callout-color: 10, 109, 221; !* todo *!*/
+/* }*/
+
+/*.callout[data-callout="related-ln"] {*/
+/*     --callout-icon: lucide-network; !* Blue *!*/
+/*    --callout-color: 10, 109, 221;*/
+/* }*/
 
 /*
 

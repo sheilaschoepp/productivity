@@ -1,44 +1,30 @@
 {
   "collapse-filter": false,
-  "search": "tag:#MachineLearning  ",
-  "showTags": true,
+  "search": "",
+  "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file: Template",
+      "query": "file: \"template\"",
       "color": {
         "a": 1,
         "rgb": 14048348
-      }
-    },
-    {
-      "query": "file: Index",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
-      "query": "file: Citations",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.65358072916667,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.90170321718802,
+  "lineSizeMultiplier": 1.87642955211696,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 2.2012687799270245,
+  "scale": 0.6235542253296201,
   "close": true
 }
